@@ -7,4 +7,6 @@
 
 1. Clone Repo/Download files.
 2. (Download &)Run npm install on the terminal.
-3. Open the file on a browser(local).
+3. Run ```parcel filename.html```
+4. Or Open the file on a browser(local).
+
